@@ -4,9 +4,9 @@
     * [[OpenCV와 함께하는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/) 외부 강사
     * 2016년 9월 ~ <현재>
     * 2019년 1월 현재, 14기 진행 중
-* 기업체/대학 강의 
+* 기업체/대학 강의
     * (주) 고영테크놀로지 (2017년 5월)
-    * 국민대학교 자동차융합대학 & 소프트웨어융합대학 특강 (2017년 8월) 
+    * 국민대학교 자동차융합대학 & 소프트웨어융합대학 특강 (2017년 8월)
     * (주) 기가비스 (2017년 10월)
     * (주) 삼성전자 (2018년 3월)
     * (주) 골프존 (2018년 6월)
@@ -37,6 +37,7 @@
 
 # Selected Papers
 
+* S. K. Hwang, Mark Billinghurst, and Whoi-Yul Kim, "Local Descriptor by Zernike Moments for Real-time Keypoint Matching," International Congress on Image and Signal Processing (CISP2008), pp.781-785, May 2008.
 * S. K. Hwang and W. Y. Kim, "A Novel Approach to the Fast Computation of Zernike Moments," Pattern Recognition, vol. 39, no. 11, pp. 2065-2076, Nov. 2006. (SCI)
 * S. K. Hwang and W. Y. Kim, "Fast and efficient method for computing ART," IEEE Trans. Image Processing, vol. 15, no. 1, pp. 112-117, Jan. 2006. (SCI)
-* S. K. Hwang and W. Y. Kim, "Motion Field Refinement and Region-Based Motion Segmentation," Lecture Notes in Computer Science, vol. 3767, pp. 280-290, Nov. 2005. (SCIE) 
+* S. K. Hwang and W. Y. Kim, "Motion Field Refinement and Region-Based Motion Segmentation," Lecture Notes in Computer Science, vol. 3767, pp. 280-290, Nov. 2005. (SCIE)
