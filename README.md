@@ -3,7 +3,7 @@
 * [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"}
     * [[OpenCV와 함께하는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"} 외부 강사
     * 2016년 9월 ~ <현재>
-    * 2019년 1월 현재, 14기 진행 중
+    * 2019년 4월 현재, 15기 진행 중
 * 기업체/대학 강의
     * (주) 고영테크놀로지 (2017년 5월)
     * 국민대학교 자동차융합대학 & 소프트웨어융합대학 특강 (2017년 8월)
@@ -19,13 +19,13 @@
 
 * 영상 처리 프로그래밍 by Visual C++ (한빛미디어, 2007년)
 * OpenCV 제대로 배우기 (한빛미디어, 2009년, 번역서)
-* Visual C++ 영상 처리 프로그래밍 (길벗, 2015) / [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"} [[YES24]](http://www.yes24.com/24/goods/23512691){:target="_blank"}
-* OpenCV4로 배우는 컴퓨터 비전과 머신 러닝 (길벗, 출간 예정)
+* Visual C++ 영상 처리 프로그래밍 (길벗, 2015) / [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"} [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"}
+* OpenCV4로 배우는 컴퓨터 비전과 머신 러닝 (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"}
 
 # Resume
 
-* ~ 2006년 8월: 한양대학교 공학박사 (전자통신전파공학 전공)
-* ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 HIT Lab NZ Postdoctoral Fellow
+* ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (전자통신전파공학 전공)
+* ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
 * ~ 2009년 3월: 한양대학교 연구교수
 * ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
 * 2016년 9월~<현재>: 패스트캠퍼스 "OpenCV와 함께하는 컴퓨터 비전 프로그래밍 캠프" 강의
