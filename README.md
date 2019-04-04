@@ -19,8 +19,8 @@
 
 * 영상 처리 프로그래밍 by Visual C++ (한빛미디어, 2007년)
 * OpenCV 제대로 배우기 (한빛미디어, 2009년, 번역서)
-* Visual C++ 영상 처리 프로그래밍 (길벗, 2015) / [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"} [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"}
-* OpenCV4로 배우는 컴퓨터 비전과 머신 러닝 (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"}
+* [Visual C++ 영상 처리 프로그래밍](https://github.com/sunkyoo/ippbook_vs2015){:target="_blank"} (길벗, 2015) / [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"} [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"}
+* [OpenCV4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/){:target="_blank"} (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"}
 
 # Resume
 
