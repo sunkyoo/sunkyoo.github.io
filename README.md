@@ -1,9 +1,9 @@
 ## Lectures
 
-* [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"}
+* [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"} 강의
   * [[OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"} 외부 강사
   * 2016년 9월 ~ <현재>
-  * 2019년 4월 현재, 15기 진행 중
+  * 2019년 9월 현재, 17기 진행 중
 * 기업체/대학 강의
   * (주) 고영테크놀로지 (2017년 5월)
   * 국민대학교 자동차융합대학 & 소프트웨어융합대학 특강 (2017년 8월)
