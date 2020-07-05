@@ -44,7 +44,7 @@
 
 ## Resume
 
-* ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (전자통신전파공학 전공)
+* ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (영상 처리 전공)
 * ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
 * ~ 2009년 3월: 한양대학교 연구교수
 * ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
