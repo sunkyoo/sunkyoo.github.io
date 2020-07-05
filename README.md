@@ -1,11 +1,20 @@
 ## Lectures/Seminars/Projects
 
 * [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"} 강의
-  * [[OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"}
+  * [[OpenCV C++로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"}
     * 2016년 9월 ~ <현재>
-    * 2019년 12월 현재, 18기 진행 중
+    * 2020년 7월 현재, 20기 진행 중
+
+  * [[OpenCV를 활용한 컴퓨터 비전과 딥러닝 올인원 패키지 Online]](https://www.fastcampus.co.kr/dev_online_cvodl){:target="_blank"}
+    * 2020년 6월 ~ <현재>
+
   * [[파이썬과 OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_pyocv/){:target="_blank"}
-    * 2020년 1월 ~ <현재>
+    * 2020년 1월 ~ 2월
+
+* [프로그래머스](https://programmers.co.kr/){:target="_blank"} 강의
+
+  * [[[스터디] 코딩테스트와 실무 역량 모두 잡는 알고리즘 스터디(C++반)]](https://programmers.co.kr/learn/courses/10476/){:target="_blank"}
+    * 2020년 7월 ~ <현재>
 
 * 기업체/대학 강의
   * (주) 고영테크놀로지, "OpenCV 프로그래밍" (2017년 5월)
@@ -39,7 +48,7 @@
 * ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
 * ~ 2009년 3월: 한양대학교 연구교수
 * ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
-* 2016년 9월~<현재>: 패스트캠퍼스 "OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프" 강의
+* 2016년 9월~<현재>: IT 강사, IT 저자, 프리랜서 개발자
 
 ## Favorite Proverb
 
