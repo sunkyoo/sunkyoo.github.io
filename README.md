@@ -3,7 +3,6 @@
 * [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"} 강의
   * [[OpenCV C++로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"}
     * 2016년 9월 ~ <현재>
-    * 2020년 7월 현재, 20기 진행 중
 
   * [[OpenCV를 활용한 컴퓨터 비전과 딥러닝 올인원 패키지 Online]](https://www.fastcampus.co.kr/dev_online_cvodl){:target="_blank"}
     * 2020년 6월 ~ <현재>
@@ -31,6 +30,9 @@
   * 한국미래기술교육연구원 (2019년 1월)
     * "인공지능의 눈" - 비전 AI의 모든 것컴퓨터비전 기반의 영상인식 기반기술과 솔루션 개발방안
     * Title: "최신 OpenCV 라이브러리 특징과 활용 방안" [[관련기사]](http://www.kidd.co.kr/news/206743){:target="_blank"}
+  * T아카데미 (2020년 5월)
+    * 토크ON세미나
+    * Title: "파이썬 OpenCV 프로그래밍 입문과 활용"
 * 프로젝트
   * (주) 기가비스, "불특정 영상의 반복주기 패턴인식 프로젝트" (2019년 2월)
 
@@ -40,7 +42,7 @@
 * OpenCV 제대로 배우기 (한빛미디어, 2009, 번역서)
 * [Visual C++ 영상 처리 프로그래밍](https://github.com/sunkyoo/ippbook_vs2015){:target="_blank"} (길벗, 2015) / [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"}
 * [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/){:target="_blank"} (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002402){:target="_blank"}
-* [C++ Data Structures and Algorithm Design Principles](https://www.packtpub.com/programming/c-data-structures-and-algorithms-book){:target="_blank"} 번역 중
+* [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://github.com/sunkyoo/CPP-Data-Structures-and-Algorithms){:target="_blank"} (길벗, 2020) / [[YES24]](http://www.yes24.com/Product/Goods/95863013){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002938){:target="_blank"}
 
 ## Resume
 
