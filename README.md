@@ -4,16 +4,19 @@
   * [[OpenCV C++로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"}
     * 2016년 9월 ~ <현재>
 
-  * [[OpenCV를 활용한 컴퓨터 비전과 딥러닝 올인원 패키지 Online]](https://www.fastcampus.co.kr/dev_online_cvodl){:target="_blank"}
-    * 2020년 6월 ~ <현재>
-
   * [[파이썬과 OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_pyocv/){:target="_blank"}
     * 2020년 1월 ~ 2월
 
+  * [[OpenCV를 활용한 컴퓨터 비전과 딥러닝 올인원 패키지 Online](온라인 강의)](https://www.fastcampus.co.kr/dev_online_cvodl){:target="_blank"}
+    * 2020년 6월 ~ <현재>
+
 * [프로그래머스](https://programmers.co.kr/){:target="_blank"} 강의
 
-  * [[[스터디] 코딩테스트와 실무 역량 모두 잡는 알고리즘 스터디(C++반)]](https://programmers.co.kr/learn/courses/10476/){:target="_blank"}
+  * [[코딩테스트와 실무 역량 모두 잡는 알고리즘 스터디(C++반)]](https://programmers.co.kr/learn/courses/10476/){:target="_blank"}
     * 2020년 7월 ~ <현재>
+
+  * [[어서와! 자료 구조와 알고리즘은 처음이지(C++)](온라인 강의)](https://programmers.co.kr/){:target="_blank"}
+    * 2020년 10월 서비스 예정
 
 * 기업체/대학 강의
   * (주) 고영테크놀로지, "OpenCV 프로그래밍" (2017년 5월)
@@ -26,6 +29,7 @@
   * (주) 삼성디스플레이, Machine Vision 특강, "How to Use OpenCV" (2019년 10월)
   * 서원대학교 특강, "OpenCV와 딥러닝 활용" (2019년 11월)
   * (주) 현대모비스, "Data Structure & Algorithm (Coding Test)" (2019년 12월)
+  * (주) 대우조선해양, "스마트쉽 전문가 양성 과정" (2020년 12월)
 * 세미나
   * 한국미래기술교육연구원 (2019년 1월)
     * "인공지능의 눈" - 비전 AI의 모든 것컴퓨터비전 기반의 영상인식 기반기술과 솔루션 개발방안
