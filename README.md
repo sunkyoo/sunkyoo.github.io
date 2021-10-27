@@ -15,8 +15,8 @@
   * [[코딩테스트와 실무 역량 모두 잡는 알고리즘 스터디(C++반)]](https://programmers.co.kr/learn/courses/10476/){:target="_blank"}
     * 2020년 7월 ~ <현재>
 
-  * [[어서와! 자료 구조와 알고리즘은 처음이지(C++)](온라인 강의)](https://programmers.co.kr/){:target="_blank"}
-    * 2021년 10월 중 서비스 예정
+  * [[C++] 어서와! 자료구조와 알고리즘은 처음이지?(온라인 강의)](https://programmers.co.kr/learn/courses/13007){:target="_blank"}
+    * 2021년 10월 ~ <현재>
 
 * 기업체/대학 강의
   * (주) 고영테크놀로지, "OpenCV 프로그래밍" (2017년 5월)
