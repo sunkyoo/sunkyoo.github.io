@@ -48,6 +48,8 @@
 * [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/){:target="_blank"} (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002402){:target="_blank"}
 * [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://github.com/sunkyoo/CPP-Data-Structures-and-Algorithms){:target="_blank"} (길벗, 2020) / [[YES24]](http://www.yes24.com/Product/Goods/95863013){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002938){:target="_blank"}
 
+[![books](./assets/img/books.png)]
+
 ## Resume
 
 * ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (영상 처리 전공)
