@@ -1,3 +1,26 @@
+## Resume
+
+* ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (영상 처리 전공)
+* ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
+* ~ 2009년 3월: 한양대학교 연구교수
+* ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
+* 2016년 9월~<현재>: IT 강사, IT 저자, 프리랜서 개발자
+
+## Favorite Proverb
+
+* 易地思之, 他山之石, 中庸之德
+* 知之爲知之 不知爲不知 是知也
+
+## Books
+
+* 영상 처리 프로그래밍 by Visual C++ (한빛미디어, 2007)
+* OpenCV 제대로 배우기 (한빛미디어, 2009, 번역서)
+* [Visual C++ 영상 처리 프로그래밍](https://github.com/sunkyoo/ippbook_vs2015){:target="_blank"} (길벗, 2015) / [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"}
+* [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/){:target="_blank"} (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002402){:target="_blank"}
+* [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://github.com/sunkyoo/CPP-Data-Structures-and-Algorithms){:target="_blank"} (길벗, 2020) / [[YES24]](http://www.yes24.com/Product/Goods/95863013){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002938){:target="_blank"}
+
+![books](./assets/img/books.png)
+
 ## Lectures/Seminars/Projects
 
 * [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"} 강의
@@ -39,29 +62,6 @@
     * Title: "파이썬 OpenCV 프로그래밍 입문과 활용"
 * 프로젝트
   * (주) 기가비스, "불특정 영상의 반복주기 패턴인식 프로젝트" (2019년 2월)
-
-## Books
-
-* 영상 처리 프로그래밍 by Visual C++ (한빛미디어, 2007)
-* OpenCV 제대로 배우기 (한빛미디어, 2009, 번역서)
-* [Visual C++ 영상 처리 프로그래밍](https://github.com/sunkyoo/ippbook_vs2015){:target="_blank"} (길벗, 2015) / [[YES24]](http://www.yes24.com/Product/goods/23512691){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN001382){:target="_blank"}
-* [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/){:target="_blank"} (길벗, 2019) / [[YES24]](http://www.yes24.com/Product/Goods/71829618){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002402){:target="_blank"}
-* [코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://github.com/sunkyoo/CPP-Data-Structures-and-Algorithms){:target="_blank"} (길벗, 2020) / [[YES24]](http://www.yes24.com/Product/Goods/95863013){:target="_blank"} [[길벗]](https://www.gilbut.co.kr/book/view?bookcode=BN002938){:target="_blank"}
-
-[![books](./assets/img/books.png)]
-
-## Resume
-
-* ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (영상 처리 전공)
-* ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
-* ~ 2009년 3월: 한양대학교 연구교수
-* ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
-* 2016년 9월~<현재>: IT 강사, IT 저자, 프리랜서 개발자
-
-## Favorite Proverb
-
-* 易地思之, 他山之石, 中庸之德
-* 知之爲知之 不知爲不知 是知也
 
 ## Selected Papers
 
