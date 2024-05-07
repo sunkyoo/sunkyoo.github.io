@@ -3,7 +3,7 @@
 * ~ 2006년 8월: [한양대학교](https://www.hanyang.ac.kr/){:target="_blank"} 공학박사 (영상 처리 전공)
 * ~ 2007년 11월: 뉴질랜드 캔터베리 대학교 [HIT Lab NZ](https://www.hitlabnz.org/){:target="_blank"} Postdoctoral Fellow
 * ~ 2009년 3월: 한양대학교 연구교수
-* ~ 2016년 3월: LG전자 MC연구소 전략 스마트폰 카메라 기능 및 Camera Framework 개발
+* ~ 2016년 3월: LG전자 MC연구소 책임연구원 (안드로이드 카메라 프레임워크 및 신기능 개발)
 * 2016년 9월~<현재>: IT 강사, IT 저자, 프리랜서 개발자
 
 ## Favorite Proverb
@@ -25,20 +25,23 @@
 
 * [패스트캠퍼스](https://www.fastcampus.co.kr/){:target="_blank"} 강의
   * [[OpenCV C++로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_cvocv/){:target="_blank"}
-    * 2016년 9월 ~ <현재>
+    * 2016년 9월 ~ 2021년 12월
 
   * [[파이썬과 OpenCV로 배우는 컴퓨터 비전 프로그래밍 캠프]](https://www.fastcampus.co.kr/dev_camp_pyocv/){:target="_blank"}
     * 2020년 1월 ~ 2월
 
   * [[OpenCV를 활용한 컴퓨터 비전과 딥러닝 올인원 패키지 Online](온라인 강의)](https://www.fastcampus.co.kr/dev_online_cvodl){:target="_blank"}
-    * 2020년 6월 ~ <현재>
+    * 2020년 6월 ~ 2024년 3월
 
 * [프로그래머스](https://programmers.co.kr/){:target="_blank"} 강의
 
   * [[코딩테스트와 실무 역량 모두 잡는 알고리즘 스터디(C++반)]](https://programmers.co.kr/learn/courses/10476/){:target="_blank"}
-    * 2020년 7월 ~ <현재>
+    * 2020년 7월 ~ 2021년 3월
 
   * [[C++] 어서와! 자료구조와 알고리즘은 처음이지?(온라인 강의)](https://programmers.co.kr/learn/courses/13007){:target="_blank"}
+    * 2021년 10월 ~ <현재>
+
+  * [프로그래머스 데브코스 자율주행 中 OpenCV 강의](https://school.programmers.co.kr/learn/courses/17916){:target="_blank"}
     * 2021년 10월 ~ <현재>
 
 * 기업체/대학 강의
@@ -54,6 +57,8 @@
   * (주) 현대모비스, "Data Structure & Algorithm (Coding Test)" (2019년 12월)
   * (주) 대우조선해양, "스마트쉽 전문가 양성 과정" (2020년 12월)
   * (주) 현대모비스, "Data Structure & Algorithm (Coding Test)" (2022년 1월)
+  * (주) LG전자, "OpenCV C++로배우는컴퓨터비전프로그래밍" (2022년 4월)
+  * 인천대학교 특강, "OpenCV를 통한 비전인식 및 처리" (2023년 8월)
 * 세미나
   * 한국미래기술교육연구원 (2019년 1월)
     * "인공지능의 눈" - 비전 AI의 모든 것컴퓨터비전 기반의 영상인식 기반기술과 솔루션 개발방안
@@ -63,6 +68,7 @@
     * Title: "파이썬 OpenCV 프로그래밍 입문과 활용"
 * 프로젝트
   * (주) 기가비스, "불특정 영상의 반복주기 패턴인식 프로젝트" (2019년 2월)
+  * 한국철도기술연구원, "Alvium SDK 기반 절연상태 분석을 위한 데이터구축용 영상처리 프로그램 코딩" (2023년 8월)
 
 ## Selected Papers
 
