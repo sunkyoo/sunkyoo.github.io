@@ -42,7 +42,7 @@
     * 2021년 10월 ~ <현재>
 
   * [프로그래머스 데브코스 자율주행 中 OpenCV 강의](https://school.programmers.co.kr/learn/courses/17916){:target="_blank"}
-    * 2021년 10월 ~ <현재>
+    * 2022년 4월 ~ <현재>
 
 * 기업체/대학 강의
   * (주) 고영테크놀로지, "OpenCV 프로그래밍" (2017년 5월)
